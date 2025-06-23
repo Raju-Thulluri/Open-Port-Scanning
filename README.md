@@ -47,13 +47,13 @@ Filter packets (e.g., tcp or ip.addr == 127.0.0.1) and save as scan_traffic.pcap
 
 Save Nmap output and Wireshark capture.
 
-Take screenshots of Nmap terminal and Wireshark interface.
+Watch the network of Nmap terminal and Wireshark interface.
 
 # Results
 
-Nmap: Identified open ports (e.g., 80, 443) on 127.0.0.1. See scan_results.txt and screenshots/nmap_output.png.
+Nmap: Identified open ports (e.g., 80, 443) on 127.0.0.1. See scan_results.txt and nmap_output.png.
 
-Wireshark: Captured TCP SYN packets during the scan. See scan_traffic.pcap and screenshots/wireshark_capture.png.
+Wireshark: Captured TCP SYN packets during the scan. See scan_traffic.pcap and wireshark_capture.png.
 
 # Warning: Ethical use only
 
